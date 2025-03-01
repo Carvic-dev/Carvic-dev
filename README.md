@@ -3,7 +3,7 @@
 ### Desenvolvedor Frontend & UX Designer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Meu%20LinkedIn-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-victor-dos-s-n-565183203/)](https://www.linkedin.com/in/carlos-victor-dos-s-n-565183203/) 
-[![Gmail Badge](https://img.shields.io/badge/-iuricold99@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carllos.victor@hotmail.com)](mailto:carllos.victor@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-carllos.victor@hotmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carllos.victor@hotmail.com)](mailto:carllos.victor@hotmail.com)
 
 👋 Olá! meu nome é Carlos Victor, ou “Carvic” para os intimos. Sou Desenvolvedor Frontend e Backend desde 2021. Sou extremamente apaixonado por café e animais.
 
